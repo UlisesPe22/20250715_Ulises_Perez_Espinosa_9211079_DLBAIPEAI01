@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Face Analyzer</string>
+    <string name="welcome_to_face_analysis">Welcome to Face Analysis</string>
+    <string name="select_image">Select Image</string>
+    <string name="selected_image">Selected image</string>
+    <string name="analyze_faces">Analyze Faces</string>
+    <string name="results_will_appear_here">Results will appear here</string>
+</resources>
