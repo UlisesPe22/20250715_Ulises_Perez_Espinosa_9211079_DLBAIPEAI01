@@ -8,7 +8,7 @@ plugins {
 
 android {
     namespace = "com.example.face_analisis_tf"
-    compileSdk = 36 // 📌 Use stable SDK 34
+    compileSdk = 36 
 
     defaultConfig {
         applicationId = "com.example.face_analisis_tf"
