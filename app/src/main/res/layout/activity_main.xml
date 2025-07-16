@@ -22,7 +22,6 @@
             android:textColor="#000"
             android:layout_marginBottom="20dp" />
 
-        <!-- This is the button you need -->
         <Button
             android:id="@+id/pickImageButton"
             android:layout_width="wrap_content"
